@@ -23,7 +23,7 @@ Active Directory and DNS.
 
 ## Connectivity Test
 
-![DC01 connectivity test](../screenshots/connectivity-test.png)
+![DC01 connectivity test](screenshots/connectivity-test.png)
 
 I verified Internet connectivity using PowerShell:
 
